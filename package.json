@@ -1,0 +1,12 @@
+{
+  "name": "secursuit-e2e-vuln",
+  "version": "0.0.1",
+  "description": "Synthetic vulnerable dependencies for E2E scanner verification",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.4",
+    "axios": "0.21.0",
+    "minimist": "1.2.0",
+    "express": "4.16.0"
+  }
+}
