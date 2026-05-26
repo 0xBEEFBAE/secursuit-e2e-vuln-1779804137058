@@ -1,0 +1,4 @@
+certifi==2022.9.24
+requests==2.30.0
+gunicorn==20.0.4
+Flask==2.2.3
